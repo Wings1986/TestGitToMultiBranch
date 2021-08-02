@@ -1,3 +1,5 @@
 
 func main():
-  int dev_a = 0
+    int dev_a = 0
+    double master = 0.0
+
