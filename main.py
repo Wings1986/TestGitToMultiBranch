@@ -5,3 +5,9 @@ func main():
     String str = "sdfsdf"
     long a = 0
     str = "sdfsfdsdf"
+    
+    str = "sfsdfsdf"
+    
+    int aaa = 0;
+    
+    int bbb = 0;
