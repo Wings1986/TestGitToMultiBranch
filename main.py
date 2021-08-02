@@ -11,3 +11,7 @@ func main():
     int aaa = 0;
     
     int bbb = 0;
+    
+    int ccc = 0;
+    
+    int ddd = 0;
