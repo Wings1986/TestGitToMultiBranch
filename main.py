@@ -4,3 +4,4 @@ func main():
     double master = 0.0
     String str = "sdfsdf"
     long a = 0
+    str = "sdfsfdsdf"
